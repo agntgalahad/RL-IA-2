@@ -4,4 +4,4 @@ Algorithm Used: DQN
 
 Team:\
 Himanshu Patil (16010121141)\
-Yakshit Poojary (16010121149)\
+Yakshit Poojary (16010121149)
